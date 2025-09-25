@@ -3,7 +3,7 @@
 
 ---
 
-## 🌟 Overview | 项目概述
+##  Overview | 项目概述
 This project is a **C++ console-based reservation system** designed for managing ferry sailings, vehicles, and reservations.  
 It was developed as a **course project (CMPT 276: Introduction to Software Engineering)** to practice **modular design, file persistence, user interface flow, and system integration**.  
 
@@ -12,7 +12,7 @@ It was developed as a **course project (CMPT 276: Introduction to Software Engin
 
 ---
 
-## ⚙️ Key Features | 核心功能
+##  Key Features | 核心功能
 - **Reservation Management**  
   - Create new reservations, check in vehicles, and delete confirmed reservations.  
   - Handles vehicle dimensions, lane allocation, and prevents overbooking.  
@@ -59,4 +59,4 @@ It was developed as a **course project (CMPT 276: Introduction to Software Engin
 
 ---
 
-## 📂 Project Structure | 项目结构
+##  Project Structure | 项目结构
